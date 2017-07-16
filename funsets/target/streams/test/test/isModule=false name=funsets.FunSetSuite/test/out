@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- inersection contains elements in common between set a and set b[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter returns only elements for predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff returns elements in set a not in set b[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall returns true if and only if all elements in set match predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists returns true if at least one element in set matches predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- map returns set with function applied to each element[0m[0m
