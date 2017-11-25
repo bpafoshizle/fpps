@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/forcomp/.idea/modules/forcomp-root-build.iml" filepath="$PROJECT_DIR$/forcomp/.idea/modules/forcomp-root-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ideaprojects.iml" filepath="$PROJECT_DIR$/.idea/modules/ideaprojects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ideaprojects-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ideaprojects-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funsets/.idea/modules/root.iml" filepath="$PROJECT_DIR$/funsets/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funsets/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/funsets/.idea/modules/root-build.iml" />
     </modules>
   </component>
 </project>
